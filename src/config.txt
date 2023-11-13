@@ -1,2 +1,2 @@
-sourcePath=G:\Photos\BubbleMac\
-destinationPath=G:\Photos\BubbleMac\BubbleMacCompiled
+sourcePath=G:\your\source\path\
+destinationPath=C:\your\destination\folder
