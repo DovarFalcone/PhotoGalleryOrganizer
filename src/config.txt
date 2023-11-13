@@ -1,0 +1,2 @@
+sourcePath=G:\Photos\BubbleMac\
+destinationPath=G:\Photos\BubbleMac\BubbleMacCompiled
